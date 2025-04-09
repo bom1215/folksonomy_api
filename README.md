@@ -10,7 +10,7 @@ A light REST API designed for the Open Food Facts Folksonomy Engine.
 
 # Contributor's guide
 
-Check our [contributor's guide](./CONTRIBUTING.md). Don't hesitate to improve it or ask questions.
+Check our [contributor's guide](./CONTRIBUTING.md). Don't hesitate to improve it or ask questions
 
 # Dependencies
 
